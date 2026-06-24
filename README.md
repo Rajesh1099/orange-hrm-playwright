@@ -191,3 +191,5 @@ Screenshots are automatically captured when a test fails.
 * Screenshot Capture on Failure
 * Cross-browser Execution Support
 
+##Testing GitHub Actions
+
